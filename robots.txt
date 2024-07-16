@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ascatort.github.io/sitemap
+Sitemap: https://ascatort.github.io/app/sitemap
+Sitemap: https://ascatort.github.io/assets/sitemap
+Sitemap: https://ascatort.github.io/css/sitemap
+Sitemap: https://ascatort.github.io/includes/sitemap
+Sitemap: https://ascatort.github.io/item/sitemap
+Sitemap: https://ascatort.github.io/src/sitemap
